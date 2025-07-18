@@ -1,0 +1,55 @@
+{
+  "usuarios": [
+    {
+      "id": "e1af",
+      "nome": "Evelyn Querem",
+      "email": "eqss@gmail.com",
+      "telefone": "81965436785",
+      "senha": "123456",
+      "idade": "18",
+      "peso": "50",
+      "altura": "165",
+      "genero": "Feminino",
+      "motivo": "quero melhorar minha saude",
+      "sentimento": "muito estressada e ansiosa",
+      "source": "Outro"
+    },
+    {
+      "id": "8d33",
+      "nome": "lay",
+      "email": "lay@gmail.com",
+      "telefone": "8199234505",
+      "senha": "123",
+      "idade": "17",
+      "peso": "54",
+      "altura": "1,56",
+      "genero": "Feminino",
+      "motivo": "quero me motivar a treinar",
+      "sentimento": "muitooo bem",
+      "source": "Instagram"
+    },
+    {
+      "id": "6041",
+      "nome": "Samuel",
+      "email": "sfc@gmail.com",
+      "telefone": "81999976852",
+      "senha": "123456",
+      "idade": "17",
+      "peso": "70",
+      "altura": "170",
+      "genero": "Masculino",
+      "motivo": "Sla",
+      "sentimento": "to esquisito",
+      "source": "Outro"
+    }
+  ],
+  "diarios": [
+    {
+      "id": "df06",
+      "usuarioId": "e1af",
+      "texto": "estou me sentindo um pouco triste hoje",
+      "emocao": "😢",
+      "data": "18/07/2025"
+    }
+  ]
+}
