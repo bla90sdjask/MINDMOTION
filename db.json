@@ -1,0 +1,139 @@
+{
+  "usuarios": [
+    {
+      "id": "e1af",
+      "nome": "Evelyn Querem",
+      "email": "eqss@gmail.com",
+      "telefone": "81965436785",
+      "senha": "123456",
+      "idade": "18",
+      "peso": "50",
+      "altura": "165",
+      "genero": "Feminino",
+      "motivo": "quero melhorar minha saude",
+      "sentimento": "muito estressada e ansiosa",
+      "source": "Outro"
+    },
+    {
+      "id": "8d33",
+      "nome": "lay",
+      "email": "lay@gmail.com",
+      "telefone": "8199234505",
+      "senha": "123",
+      "idade": "17",
+      "peso": "54",
+      "altura": "1,56",
+      "genero": "Feminino",
+      "motivo": "quero me motivar a treinar",
+      "sentimento": "muitooo bem",
+      "source": "Instagram"
+    },
+    {
+      "id": "6041",
+      "nome": "Samuel",
+      "email": "sfc@gmail.com",
+      "telefone": "81999976852",
+      "senha": "123456",
+      "idade": "17",
+      "peso": "70",
+      "altura": "170",
+      "genero": "Masculino",
+      "motivo": "Sla",
+      "sentimento": "to esquisito",
+      "source": "Outro"
+    },
+    {
+      "id": "d406",
+      "nome": "lay",
+      "email": "lefs@gmail.com",
+      "telefone": "8190904578",
+      "senha": "190",
+      "idade": "20",
+      "peso": "70",
+      "altura": "1.80",
+      "genero": "Feminino",
+      "motivo": "quero começar a fzr exercicios",
+      "sentimento": "muitoooo beeeemmmmm",
+      "source": "Instagram"
+    },
+    {
+      "id": "5ee6",
+      "nome": "vitor",
+      "email": "vitor@gmail.com",
+      "telefone": "8196735645",
+      "senha": "1234",
+      "idade": "19",
+      "peso": "75",
+      "altura": "190",
+      "genero": "Masculino",
+      "motivo": "quero melhorar o desempenho do meu corpo",
+      "sentimento": "tenho estado muito ansioso",
+      "source": "Twitter"
+    },
+    {
+      "id": "1a48",
+      "nome": "Nilson",
+      "email": "njr1466@gmail.com",
+      "telefone": "8198855421",
+      "senha": "123456",
+      "idade": "45",
+      "peso": "87",
+      "altura": "1,83",
+      "genero": "Masculino",
+      "motivo": "emagrecer",
+      "sentimento": "muito mal",
+      "source": "Instagram"
+    }
+  ],
+  "diarios": [
+    {
+      "id": "df06",
+      "usuarioId": "e1af",
+      "texto": "estou me sentindo um pouco triste hoje",
+      "emocao": "😢",
+      "data": "18/07/2025"
+    },
+    {
+      "id": "754c",
+      "usuarioId": "e1af",
+      "texto": "estou tranquila mas queria um doce",
+      "emocao": "😊",
+      "data": "22/07/2025"
+    },
+    {
+      "id": "c636",
+      "usuarioId": "d406",
+      "texto": "eu acordei muito bem, muito descansada e animada para o dia",
+      "emocao": "😊",
+      "data": "23/07/2025"
+    },
+    {
+      "id": "a7df",
+      "usuarioId": "e1af",
+      "texto": "estou muito feliiiiizz",
+      "emocao": "❤️",
+      "data": "23/07/2025"
+    },
+    {
+      "id": "352f",
+      "usuarioId": "5ee6",
+      "texto": "estou raivosooo",
+      "emocao": "😠",
+      "data": "23/07/2025"
+    },
+    {
+      "id": "fab6",
+      "usuarioId": "1a48",
+      "texto": "Acordei muito bem, depois de uma boa noite de sono.",
+      "emocao": "😊",
+      "data": "23/07/2025"
+    },
+    {
+      "id": "5b29",
+      "usuarioId": "1a48",
+      "texto": "mas já estou com raiva",
+      "emocao": "😠",
+      "data": "23/07/2025"
+    }
+  ]
+}
